@@ -1,3 +1,2 @@
 # Paradoxical
-Paradoxical relationship between speed and accuracy in olfactory figure-background segregation:
-Code and data
+Code and data for: Paradoxical relationship between speed and accuracy in olfactory figure-background segregation
